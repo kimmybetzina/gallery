@@ -1,0 +1,12 @@
+/* Gallery Styling */
+.gallery {
+    height: 500px;
+}
+
+.gallery .item {
+    background: hotpink;
+}
+
+.controls img:hover {
+    outline: 5px solid red;
+}
